@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm 40 years old and just getting started trying to learn the new world of coding! 💪👊
+This is going to be an interesting journey! 
 
 <!--
 **duncgiles/duncgiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
